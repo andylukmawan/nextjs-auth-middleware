@@ -12,6 +12,18 @@
   align-items: center;
 }
 
+.login {
+  padding: 8px 16px;
+  background-color: lightgreen;
+  border-radius: 4px;
+}
+
+.logout {
+  padding: 8px 16px;
+  background-color: lightcoral;
+  border-radius: 4px;
+}
+
 .footer {
   display: flex;
   flex: 1;
